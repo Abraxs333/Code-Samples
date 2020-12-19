@@ -1,5 +1,5 @@
 # Arduino/C++ Code Samples
-Examples of the implementation of C/C++ language for developing hardware using the Arduino platform.
+Examples of the implementation of C++ language for developing hardware using the Arduino platform.
 
 Most of these examples have the only purpose to communicate with interfaces in other languages.
 Thus the scripts focus on detecting simple real-world Inputs and translating them into integers to be analyzed by another device.
